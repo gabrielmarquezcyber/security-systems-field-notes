@@ -174,3 +174,4 @@ if ($encodingHits.Count -eq 0) {
 }
 
 Write-Host "Public repo validation complete."
+

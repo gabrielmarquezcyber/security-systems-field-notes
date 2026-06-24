@@ -1,10 +1,26 @@
 ﻿# LinkedIn Draft - Making Competence Inspectable
 
-Is "build a portfolio" actually good advice?
+Cybersecurity has a strange contradiction.
 
-Or has it become another ritual candidates perform for a market that still cannot see them?
+We keep hearing there is a talent shortage.
 
-I keep seeing the same cybersecurity career post:
+Understaffed teams.
+Unfilled roles.
+Rising demand.
+Skills gaps.
+Security risk tied to lack of qualified people.
+
+At the same time, many candidates experience the entry interface as brutal.
+
+Not merely competitive.
+
+Brutal.
+
+That raises a question I do not think the usual career advice answers well:
+
+If the shortage is real, why is the bridge into the field still so hard to cross?
+
+The standard advice is familiar:
 
 Certifications do not get you hired.
 Hands-on proof matters.
@@ -16,46 +32,40 @@ I think that advice is directionally right.
 
 I also think it is incomplete.
 
-The deeper issue is that cybersecurity candidates are trying to enter a labor market where older family-sustaining paths have degraded, service and technical work have become globally contestable, credentials are saturated, and hiring systems often cannot directly observe competence.
+Maybe the deeper problem is that hiring systems often cannot directly see competence.
 
-A growing occupation can still be hard to enter if the selection interface is crowded, risk-averse, seniority-biased, or poorly designed to identify latent ability.
+They see proxies:
+credentials,
+titles,
+referrals,
+polish,
+social proof,
+corporate culture fit,
+confidence,
+keywords,
+prior selection by someone else.
 
-That is why I am starting to think about portfolio work differently.
+So maybe "build a portfolio" is not the real prescription.
 
-Maybe the point is not:
+Maybe the real question is:
 
-> Look, I built a lab.
+How do you convert competence into trust-bearing evidence?
 
-Maybe the point is:
+That may include artifacts.
 
-> Here is evidence of how I investigate, reason, document, prioritize, and reduce risk.
+But it may also include networking, referrals, better packaging, stronger public communication, social proof, aesthetic polish, and the ability to explain yourself without sounding either desperate or fake.
 
-But even that may be too simple.
+That is the uncomfortable part.
 
-Maybe "make competence inspectable" is not the answer.
+Maybe making competence inspectable is only one hypothesis.
 
-Maybe it is only the current hypothesis.
+Maybe the real selection environment rewards trust more than skill, visibility more than depth, and prior legitimacy more than latent ability.
 
-People are tired of lifeless AI content for some of the same reasons they are tired of corporate theater: language about authenticity, wellbeing, belonging, and human connection often appears exactly where trust, judgment, and material stability feel most absent.
-
-The generic AI career post sounds alien because the modern job search already feels alien.
-
-So the question I am trying to sharpen is this:
-
-Can public artifacts restore any human signal to a hiring process that often cannot directly see how someone thinks?
-
-Artifacts can show judgment:
-
-- What scenario was investigated?
-- What evidence mattered?
-- What was ambiguous?
-- What looked benign?
-- What required escalation?
-- What detection, playbook, or workflow improved afterward?
-
-That is the signal I am trying to understand and build.
+Still, serious proof may matter because it gives trust something real to inspect.
 
 If you hire, screen, interview, or manage security analysts, I would genuinely like to know where this framework is wrong.
+
+Are teams short of people, or short of senior-ready trust?
 
 What signals actually reduce risk for you?
 
@@ -63,14 +73,11 @@ What portfolio evidence do you trust?
 
 What looks impressive but does not matter?
 
-And if you are trying to break in: what has produced real signal, and what has only produced more effort without conversion?
+And for people trying to break in: what has created real signal, and what has only created more effort without conversion?
 
 My current working model:
 
 Do not merely become more competent.
 
-Make competence inspectable.
+Convert competence into trust.
 
-Not because it guarantees trust.
-
-Because it gives trust something real to inspect.
