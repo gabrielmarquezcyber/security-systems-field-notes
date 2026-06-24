@@ -1,11 +1,15 @@
-# LinkedIn Draft - Making Competence Inspectable
+﻿# LinkedIn Draft - Making Competence Inspectable
+
+Is "build a portfolio" actually good advice?
+
+Or has it become another ritual candidates perform for a market that still cannot see them?
 
 I keep seeing the same cybersecurity career post:
 
-Certifications do not get you hired.  
-Hands-on proof matters.  
-Build a lab.  
-Build a portfolio.  
+Certifications do not get you hired.
+Hands-on proof matters.
+Build a lab.
+Build a portfolio.
 Keep going.
 
 I think that advice is directionally right.
@@ -26,15 +30,21 @@ Maybe the point is:
 
 > Here is evidence of how I investigate, reason, document, prioritize, and reduce risk.
 
-Hands-on proof is not magic.
+But even that may be too simple.
 
-It does not guarantee hiring.
+Maybe "make competence inspectable" is not the answer.
 
-But it may be one of the few ways a candidate can make competence inspectable across the layers of hiring that do not directly see competence.
+Maybe it is only the current hypothesis.
 
-Certifications can create legibility. Degrees can create baseline credibility. Prior titles can reduce perceived risk.
+People are tired of lifeless AI content for some of the same reasons they are tired of corporate theater: language about authenticity, wellbeing, belonging, and human connection often appears exactly where trust, judgment, and material stability feel most absent.
 
-But artifacts can show judgment:
+The generic AI career post sounds alien because the modern job search already feels alien.
+
+So the question I am trying to sharpen is this:
+
+Can public artifacts restore any human signal to a hiring process that often cannot directly see how someone thinks?
+
+Artifacts can show judgment:
 
 - What scenario was investigated?
 - What evidence mattered?
@@ -60,3 +70,7 @@ My current working model:
 Do not merely become more competent.
 
 Make competence inspectable.
+
+Not because it guarantees trust.
+
+Because it gives trust something real to inspect.

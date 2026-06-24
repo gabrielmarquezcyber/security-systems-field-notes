@@ -1,4 +1,4 @@
-# Reviewer Proof Map
+﻿# Reviewer Proof Map
 
 This proof map provides the audit route for the repository. It maps the first public field note to its claims, evidence, role relevance, and scope boundaries.
 
@@ -17,10 +17,11 @@ This proof map provides the audit route for the repository. It maps the first pu
 
 | Claim | Evidence path | Why it matters |
 |---|---|---|
-| Cybersecurity hiring is a layered selection environment, not a pure competence filter. | [Essay](essays/making-competence-inspectable.md), sections 6-8 | Shows the candidate can analyze hiring as an operational system with different incentives at each layer. |
-| Hands-on proof is not magic; it is a way to reduce uncertainty for reviewers. | [Essay](essays/making-competence-inspectable.md), sections 9-11 | Converts portfolio advice into a risk-reduction framework instead of motivational content. |
-| Labor-market pressure is broader than cybersecurity. | [Essay](essays/making-competence-inspectable.md), sections 3-5; [Source Notes](references/source-notes.md) | Grounds the argument in manufacturing decline, service-work pressure, labor-force participation, outsourcing, and globalized competition. |
-| Cybersecurity occupational growth does not guarantee clean entry-level conversion. | [Essay](essays/making-competence-inspectable.md), section 6; [Source Notes](references/source-notes.md) | Separates macro demand from the candidate-selection interface. |
+| "Make competence inspectable" is a working hypothesis, not a proven prescription. | [Essay](essays/making-competence-inspectable.md), sections 2-3 and 12-13 | Keeps the artifact honest and invites critique rather than presenting guru-style career certainty. |
+| Cybersecurity hiring is a layered selection environment, not a pure competence filter. | [Essay](essays/making-competence-inspectable.md), sections 8-9 | Shows the candidate can analyze hiring as an operational system with different incentives at each layer. |
+| Hands-on proof is not magic; it is a way to test whether visible evidence can reduce uncertainty for reviewers. | [Essay](essays/making-competence-inspectable.md), sections 10-13 | Converts portfolio advice into a risk-reduction framework instead of motivational content. |
+| Labor-market pressure is broader than cybersecurity. | [Essay](essays/making-competence-inspectable.md), sections 4-6; [Source Notes](references/source-notes.md) | Grounds the argument in manufacturing decline, service-work pressure, labor-force participation, outsourcing, and globalized competition. |
+| Cybersecurity occupational growth does not guarantee clean entry-level conversion. | [Essay](essays/making-competence-inspectable.md), section 7; [Source Notes](references/source-notes.md) | Separates macro demand from the candidate-selection interface. |
 | Public proof should be role-specific and inspectable. | [Framework](frameworks/selection-environment-proof-map.md), [Checklist](checklists/public-proof-artifact-checklist.md) | Turns the argument into a practical artifact strategy for Income Activation. |
 
 ## Role relevance
@@ -48,4 +49,4 @@ The current proof is analytical and communicative. Technical execution proof rem
 
 ## Reviewer takeaway
 
-This repository demonstrates the ability to convert abstract analysis into a structured, public, role-relevant artifact with source anchors, distribution assets, and a clear review path.
+This repository demonstrates the ability to convert abstract analysis into a structured, public, role-relevant artifact with source anchors, distribution assets, a clear review path, and an explicit testable claim.

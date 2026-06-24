@@ -5,7 +5,6 @@ Write-Host "Running public repo validation..."
 $repoRoot = Resolve-Path "."
 Set-Location $repoRoot
 
-# Collect public-facing markdown files
 $publicDocs = @()
 $pathsToScan = @(
     ".\README.md",
@@ -26,7 +25,6 @@ foreach ($path in $pathsToScan) {
     $publicDocs += Get-ChildItem -Path $path -File -ErrorAction SilentlyContinue
 }
 
-# Markdown local-link check
 $missingLinks = @()
 
 foreach ($doc in $publicDocs) {
@@ -61,7 +59,6 @@ if ($missingLinks.Count -eq 0) {
     throw "Markdown local-link check failed."
 }
 
-# Embedded image-link check
 $missingImages = @()
 
 foreach ($doc in $publicDocs) {
@@ -91,7 +88,6 @@ if ($missingImages.Count -eq 0) {
     throw "Embedded image-link check failed."
 }
 
-# Public-safety scan
 $scanTerms = @(
     "suggested",
     "Suggested",
@@ -146,12 +142,10 @@ if ($scanHits.Count -eq 0) {
     throw "Public-safety scan failed."
 }
 
-# Encoding / mojibake scan
-# Avoid fragile literal mojibake strings by constructing suspicious chars from code points.
 $encodingTerms = @(
-    [string][char]0x00E2,  # Latin small letter a with circumflex, common in mojibake
-    [string][char]0x00C3,  # Latin capital A with tilde, common in mojibake
-    [string][char]0xFFFD   # Unicode replacement character
+    [string][char]0x00E2,
+    [string][char]0x00C3,
+    [string][char]0xFFFD
 )
 
 $encodingHits = @()

@@ -1,4 +1,4 @@
-# Security Systems Field Notes
+﻿# Security Systems Field Notes
 
 Field notes on cybersecurity, AI trust architecture, security operations, selection environments, and operational systems.
 
@@ -11,13 +11,14 @@ This README is the main review path. It presents the archive, the first field no
 | Reviewer question | Fast path |
 |---|---|
 | What is this? | A public field-notes archive for cybersecurity, AI trust architecture, and operational decision-making. |
-| What is the first proof artifact? | [Making Competence Inspectable](essays/making-competence-inspectable.md) |
+| What is the first artifact? | [Making Competence Inspectable](essays/making-competence-inspectable.md) |
+| What is being tested? | Whether role-specific public artifacts can reduce hiring uncertainty by making judgment, evidence, and reasoning inspectable. |
 | What claims does it make? | [Reviewer Proof Map](reviewer-proof-map.md) |
 | Where are the source anchors? | [Source Notes](references/source-notes.md) |
 | Where is the docs index? | [Docs Index](docs/README.md) |
 | Where is the distribution draft? | [LinkedIn Draft](linkedin-drafts/making-competence-inspectable-linkedin-post.md) |
 
-## What this proves
+## What this tests
 
 This archive demonstrates a repeatable public-proof workflow:
 
@@ -25,23 +26,25 @@ This archive demonstrates a repeatable public-proof workflow:
 internal insight -> written artifact -> evidence map -> distribution draft -> reviewer inspection path
 ```
 
-The core operating rule:
+The first field note treats this operating rule as a hypothesis, not a victory claim:
 
 ```text
 Do not merely become more competent. Make competence inspectable.
 ```
 
-## Current proof artifact
+The question is whether that rule actually improves trust across hiring systems that often cannot directly observe ability.
+
+## Current artifact
 
 ### [Making Competence Inspectable](essays/making-competence-inspectable.md)
 
-**Subtitle:** Why hands-on proof may be the rational response to credential inflation, degraded work ladders, and hiring systems that cannot directly see ability.
+**Subtitle:** Cybersecurity hiring in a globalized signal economy.
 
-This field note analyzes cybersecurity hiring as a layered selection environment inside a broader labor market shaped by degraded domestic work ladders, credential inflation, global labor competition, outsourcing, remote applicant pools, and risk-averse hiring systems.
+This field note analyzes cybersecurity hiring as a layered selection environment inside a broader labor market shaped by degraded domestic work ladders, credential inflation, global labor competition, outsourcing, remote applicant pools, corporate language rituals, and risk-averse hiring systems.
 
 The field note does not claim that portfolio work guarantees success.
 
-It argues that inspectable proof may be a rational adaptation when the market cannot directly observe competence.
+It asks whether inspectable proof is a rational experiment when the market cannot directly observe competence, judgment, anxiety, ambiguity, care, evidence, and responsibility.
 
 **Supporting files:**
 
@@ -111,3 +114,5 @@ The value of this archive is not content volume. The value is structured convers
 ```text
 work performed -> visible proof -> reviewer understanding -> role relevance -> interview credibility
 ```
+
+The first artifact does not pretend that this conversion is guaranteed. It makes the conversion problem explicit enough to test.
