@@ -1,122 +1,58 @@
 ﻿# Security Systems Field Notes
 
-Field notes on cybersecurity, AI trust architecture, labor-market selection environments, and public proof systems.
+Long-form field notes on cybersecurity, AI, labor markets, institutional trust, and the problem of making real competence visible.
 
-This repository is a reviewer-facing public proof archive. It is not a general notebook. It exists to make complex reasoning inspectable: essays, source maps, proof frameworks, and distribution assets that connect security work to broader labor-market and institutional reality.
+This is a writing archive, not a technical proof repository. The technical portfolio remains in focused project repos. This repo holds essays, source maps, series pages, and public distribution excerpts.
 
-## Primary review path
+## Start here
 
-| Reviewer question | Fast path |
+### [Making Competence Inspectable](articles/making-competence-inspectable.md)
+
+**Cybersecurity Hiring in a Globalized Signal Economy**
+
+Musical chairs, disappearing ladders, and the problem of proving ability when the system cannot directly see it.
+
+This essay uses cybersecurity hiring as the case study, but the subject is larger: how competence becomes visible after older institutions that formed and recognized competence have thinned.
+
+**Read alongside:**
+
+- [Source Map](sources/making-competence-inspectable-sources.md)
+- [Series Index](series/globalized-signal-economy.md)
+- [LinkedIn Excerpt](social/making-competence-inspectable-linkedin.md)
+
+## Publication sections
+
+| Section | Purpose |
 |---|---|
-| What is this archive? | A public field-notes repo for security, AI trust, and selection-environment analysis. |
-| What is the current artifact? | [Making Competence Inspectable](essays/making-competence-inspectable.md) |
-| What does the artifact claim? | [Reviewer Proof Map](reviewer-proof-map.md) |
-| What sources support it? | [Source Notes](references/source-notes.md) |
-| Where can I go deeper? | [Docs Index](docs/README.md) |
-| What is the distribution version? | [LinkedIn Draft](linkedin-drafts/making-competence-inspectable-linkedin-post.md) |
+| [Articles](articles/making-competence-inspectable.md) | Finished long-form essays and field notes. |
+| [Sources](sources/making-competence-inspectable-sources.md) | Public source maps for essays that use numbered references. |
+| [Series](series/README.md) | Thematic reading paths across related essays. |
+| [Social](social/making-competence-inspectable-linkedin.md) | Short public excerpts adapted for LinkedIn or other distribution channels. |
+| [About](about.md) | Purpose, scope, and relationship to the technical portfolio. |
 
-## Current field note
+## Current series
 
-### [Making Competence Inspectable](essays/making-competence-inspectable.md)
+### [Globalized Signal Economy](series/globalized-signal-economy.md)
 
-**Subtitle:** Musical chairs, disappearing ladders, and the problem of proving ability when the system cannot directly see it.
+Essays on work, competence, trust, hiring, technology, and institutional selection environments.
 
-This field note uses cybersecurity hiring as a case study in a broader labor-market problem: older work ladders have thinned, credentials have inflated, service and technical work have become globally contestable, and hiring systems often cannot directly observe competence.
+## Relationship to the technical portfolio
 
-The essay does not claim that portfolio work guarantees employment.
+This archive is the writing layer. It can link to technical artifacts, but it is not structured like one.
 
-It asks a harder question:
+Focused security work remains in dedicated repositories for:
 
-```text
-If a field reports a talent shortage, why can capable candidates still struggle to enter it?
-```
+- Elastic SIEM detection engineering and vulnerability risk automation
+- Empire Breacher AI agent security research
+- Active Directory defender-focused field notes
+- Splunk/SOC workbook artifacts
 
-Its working conclusion is that the goal is not merely to build artifacts. The goal is to convert competence into trust-bearing signals across selection layers.
+This archive explains the broader context those artifacts sit inside.
 
-## What this repo proves
+## Scope
 
-This archive demonstrates a repeatable public-proof workflow:
+This repo contains public essays, source maps, series pages, and distribution excerpts. It does not claim production SOC ownership, enterprise SIEM administration, formal incident-response ownership, or professional red-team experience.
 
-```text
-field observation -> source-backed argument -> proof map -> distribution asset -> reviewer inspection path
-```
+Private disputes, sensitive financial details, private relationship material, and raw personal notes are not part of this archive.
 
-The core operating question:
 
-```text
-How does private competence become public trust?
-```
-
-## Artifact architecture
-
-| File | Purpose |
-|---|---|
-| [README](README.md) | Primary reviewer path. |
-| [Reviewer Proof Map](reviewer-proof-map.md) | Claim-to-evidence route. |
-| [Docs Index](docs/README.md) | Navigation hub. |
-| [Artifact Deep-Dive](docs/01-making-competence-inspectable.md) | Reviewer-oriented walkthrough. |
-| [Essay](essays/making-competence-inspectable.md) | Full canonical field note. |
-| [Source Notes](references/source-notes.md) | Public reference anchors. |
-| [LinkedIn Draft](linkedin-drafts/making-competence-inspectable-linkedin-post.md) | Distribution version. |
-| [Selection Framework](frameworks/selection-environment-proof-map.md) | Reusable proof-design framework. |
-
-## Public pillars
-
-### 1. Cyber / SOC competence
-
-Investigation logic, evidence handling, detection reasoning, vulnerability prioritization, identity security, escalation judgment, and analyst communication.
-
-### 2. AI trust architecture
-
-Private-keyed AI trust, confidential inference, policy-bound tools, agent authorization, AI-assisted SecOps guardrails, and verifiable audit.
-
-### 3. Reality calibration / operating philosophy
-
-Selection environments, institutional incentives, competence versus spectacle, public proof, truth and distribution, and operating checklists.
-
-### 4. Sovereignty / capital / household
-
-Ownership, privacy, resilience, family and household formation, health as execution infrastructure, and capital strategy.
-
-## Repository structure
-
-```text
-README.md
-reviewer-proof-map.md
-docs/
-  README.md
-  01-making-competence-inspectable.md
-essays/
-frameworks/
-security-notes/
-ai-trust-architecture/
-reality-calibration/
-checklists/
-linkedin-drafts/
-references/
-evidence/
-scripts/
-```
-
-## Related technical proof repos
-
-This repo is the field-notes layer. Focused technical proof remains in dedicated repositories:
-
-- Elastic SIEM Detection Engineering and Vulnerability Risk Automation
-- Empire Breacher
-- Active Directory Persistence - Defender-Focused Field Notes
-- SOC Analyst Splunk Operations Workbook
-
-## Scope note
-
-This repository contains public essays, frameworks, checklists, distribution drafts, source notes, and evidence maps. It does not claim production SOC ownership, enterprise SIEM administration, formal incident-response ownership, or professional red-team experience.
-
-Private disputes, specific financial distress, sensitive relationship material, and personal health details are not part of this archive.
-
-## Review takeaway
-
-The value of this archive is not content volume. The value is structured conversion:
-
-```text
-observed problem -> public artifact -> source map -> reviewer understanding -> role relevance -> interview credibility
-```
