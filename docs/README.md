@@ -7,9 +7,9 @@ This index routes reviewers from the main archive page into deeper artifact insp
 | Document | Purpose |
 |---|---|
 | [Repository README](../README.md) | Primary review path and archive overview. |
-| [Reviewer Proof Map](../reviewer-proof-map.md) | Audit map for claims, evidence, role relevance, competing hypotheses, and scope boundaries. |
-| [Making Competence Inspectable](../essays/making-competence-inspectable.md) | Current public field note. |
-| [Making Competence Inspectable - Deep-Dive](01-making-competence-inspectable.md) | Reviewer-oriented walkthrough of the current artifact. |
+| [Reviewer Proof Map](../reviewer-proof-map.md) | Audit map for claims, evidence, role relevance, and scope boundaries. |
+| [Making Competence Inspectable](../essays/making-competence-inspectable.md) | Full canonical field note. |
+| [Making Competence Inspectable - Deep-Dive](01-making-competence-inspectable.md) | Reviewer-oriented walkthrough of the artifact. |
 
 ## Supporting references
 
@@ -22,9 +22,8 @@ This index routes reviewers from the main archive page into deeper artifact insp
 
 ## Reviewer takeaway
 
-The current artifact is designed to be inspectable at three levels:
+The current artifact is inspectable at three levels:
 
 ```text
 README overview -> proof map -> full essay and source notes
 ```
-

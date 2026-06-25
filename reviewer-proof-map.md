@@ -1,57 +1,38 @@
 ﻿# Reviewer Proof Map
 
-This proof map provides the audit route for the repository. It maps the current public field note to its claims, evidence, role relevance, competing hypotheses, and scope boundaries.
+This proof map provides the audit route for the current field note. It maps the essay's claims to source notes, role relevance, and scope boundaries.
 
 ## Fast review path
 
 | Review need | File |
 |---|---|
 | Main archive overview | [README](README.md) |
-| Current public artifact | [Making Competence Inspectable](essays/making-competence-inspectable.md) |
+| Full field note | [Making Competence Inspectable](essays/making-competence-inspectable.md) |
 | Artifact deep-dive | [Docs - Making Competence Inspectable](docs/01-making-competence-inspectable.md) |
 | Source anchors | [Source Notes](references/source-notes.md) |
 | Distribution draft | [LinkedIn Draft](linkedin-drafts/making-competence-inspectable-linkedin-post.md) |
 | Publication quality gate | [Public Proof Artifact Checklist](checklists/public-proof-artifact-checklist.md) |
-| Selection framework | [Selection Environment Proof Map](frameworks/selection-environment-proof-map.md) |
 
 ## Claim to evidence map
 
 | Claim | Evidence path | Why it matters |
 |---|---|---|
-| Cybersecurity has a shortage paradox: reported workforce gaps and understaffing exist alongside high candidate entry stress. | [Essay](essays/making-competence-inspectable.md), sections 1-2; [Source Notes](references/source-notes.md) | Frames the article around a system contradiction, not generic job-search frustration. |
-| Cybersecurity occupational growth does not automatically create clean entry paths. | [Essay](essays/making-competence-inspectable.md), sections 1 and 8; [Source Notes](references/source-notes.md) | Separates macro demand from candidate-selection mechanics. |
-| Older domestic work ladders weakened while remaining service and knowledge work became more globally contestable. | [Essay](essays/making-competence-inspectable.md), sections 4-5; [Source Notes](references/source-notes.md) | Places cybersecurity hiring inside a broader labor-market transformation. |
-| Corporate hiring often rewards legibility, risk reduction, social proof, and cultural performance before directly observing competence. | [Essay](essays/making-competence-inspectable.md), sections 6-9 | Explains why candidates can become more capable without becoming more selected. |
-| "Make competence inspectable" is a testable hypothesis, not a guaranteed solution. | [Essay](essays/making-competence-inspectable.md), sections 3 and 12-14 | Prevents guru-style certainty and creates an open framework for critique. |
-| Alternative strategies may have higher immediate ROI than proof-building alone. | [Essay](essays/making-competence-inspectable.md), sections 10-11 | Acknowledges social proof, networking, profile aesthetics, referrals, sales skill, timing, and corporate culture signaling. |
-| Public proof remains rational if it creates trust-bearing evidence, reusable assets, and material for serious reviewers. | [Essay](essays/making-competence-inspectable.md), sections 13-15; [Framework](frameworks/selection-environment-proof-map.md) | Converts the article into an operational strategy while preserving uncertainty. |
+| Cybersecurity has visible demand while candidates still face severe entry friction. | [Essay](essays/making-competence-inspectable.md), section 1; [Source Notes](references/source-notes.md), S1-S2 | Separates occupational demand from selection-interface failure. |
+| Older family-sustaining ladders have thinned across repeated shocks and structural change. | [Essay](essays/making-competence-inspectable.md), sections 2-4; [Source Notes](references/source-notes.md), S3-S11 | Places cybersecurity hiring inside a broader labor-market transformation. |
+| Education and credentials remain useful but do not guarantee professional conversion. | [Essay](essays/making-competence-inspectable.md), section 3; [Source Notes](references/source-notes.md), S7-S8 | Explains why credential accumulation alone can fail to solve the entry problem. |
+| Domestic technical and service workers compete inside globalized cost-optimization systems. | [Essay](essays/making-competence-inspectable.md), section 4; [Source Notes](references/source-notes.md), S11-S12 | Frames offshoring, skilled-labor channels, and remote competition structurally rather than personally. |
+| Hiring systems favor legible, trust-bearing signals more than raw competence alone. | [Essay](essays/making-competence-inspectable.md), sections 5-7; [Source Notes](references/source-notes.md), S13-S20 | Connects the essay to public proof strategy and repo design. |
+| Inspectable proof is one signal inside a broader trust stack, not a magic solution. | [Essay](essays/making-competence-inspectable.md), sections 6-7; [Selection Framework](frameworks/selection-environment-proof-map.md) | Keeps the artifact honest and prevents portfolio-building from becoming another ritual. |
 
 ## Role relevance
 
 | Role family | Relevant signal in this repo |
 |---|---|
-| SOC / MDR analyst | Evidence-backed reasoning, uncertainty handling, false-positive awareness, escalation thinking, and documentation discipline. |
-| Security analyst | Risk framing, source-backed argumentation, and role-specific proof strategy. |
-| Detection analyst | Emphasis on observable evidence, signal quality, and validation rather than credential display alone. |
-| AI security / trust architecture | Early framework layer for policy-bound tools, AI-assisted SecOps guardrails, auditability, and trust-bound system design. |
-| Technical communicator | Ability to convert complex socioeconomic and security concepts into a structured artifact with sources, limitations, and critique paths. |
-| Security-adjacent strategist | Selection-environment analysis, workforce dynamics, trust formation, and public proof design. |
-
-## Competing hypotheses tracked
-
-The essay does not assume portfolio proof is always the highest-ROI action. It explicitly tests it against:
-
-| Hypothesis | What it selects for |
-|---|---|
-| Social proof | Connections, engagement, referrals, and visible network trust. |
-| Aesthetic trust | Profile photo, visual polish, presentation quality, and perceived professionalism. |
-| Corporate culture compliance | Positivity, harmless enthusiasm, values-language fluency, and low-friction team fit. |
-| Sales/self-marketing | Ability to package, simplify, follow up, and make the candidate easy to say yes to. |
-| Nepotism/referrals | Pre-existing trust transfer and internal sponsorship. |
-| Prior title legitimacy | Evidence that another organization already absorbed hiring risk. |
-| Credential gates | HR legibility, compliance requirements, and baseline vocabulary. |
-| Budget/risk avoidance | Preference for senior-ready candidates, contractors, or internal transfers. |
-| Timing/luck | Open headcount, recruiter attention, market cycle, and role urgency. |
+| SOC / MDR analyst | Evidence-minded reasoning, escalation logic, uncertainty handling, documentation discipline. |
+| Security analyst | Risk framing, source-backed analysis, and role-specific proof strategy. |
+| Detection analyst | Emphasis on evidence, signal quality, validation, false positives, and reviewer trust. |
+| AI security / trust architecture | Early framework layer for AI-generated output, tool boundaries, human approval, and auditability. |
+| Technical communicator | Clear transformation of complex labor-market and security concepts into readable public artifacts. |
 
 ## Scope boundaries
 
@@ -64,13 +45,8 @@ This repository is a public field-notes archive. It does not claim:
 - professional red-team experience,
 - or direct proof that portfolio work guarantees hiring.
 
-The current proof is analytical and communicative. Technical execution proof remains in dedicated security repos.
+The current artifact is analytical and communicative. Technical execution proof remains in dedicated security repositories.
 
 ## Reviewer takeaway
 
-This repository demonstrates the ability to convert a messy labor-market and cybersecurity hiring problem into a structured, source-backed, critique-ready public artifact.
-
-The artifact is not claiming victory.
-
-It is testing whether public proof can help restore trust where hiring systems cannot directly see ability.
-
+This repository demonstrates the ability to convert a complex, emotionally charged labor-market problem into a structured, public, source-mapped, role-relevant artifact with a clear inspection path.

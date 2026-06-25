@@ -1,71 +1,44 @@
 ﻿# LinkedIn Draft - Making Competence Inspectable
 
-Cybersecurity has a strange contradiction.
+Cybersecurity is supposed to have a talent shortage.
 
-We keep hearing there is a talent shortage.
+So why does the entry point feel so brutal?
 
-Understaffed teams.
-Unfilled roles.
-Rising demand.
-Skills gaps.
-Security risk tied to lack of qualified people.
+That contradiction is what I wanted to examine.
 
-At the same time, many candidates experience the entry interface as brutal.
+A field can have real occupational demand while still being hard to enter at the selection-interface level. Teams can be understaffed while hiring remains risk-averse. Organizations can say they need talent while still filtering out people who might become that talent if the system had enough trust, training capacity, and managerial courage to absorb them.
 
-Not merely competitive.
+That is not just a cybersecurity problem.
 
-Brutal.
+It sits inside a larger labor-market shift: disappearing ladders, credential inflation, globalized service and technical work, AI-generated content, remote competition, and hiring systems that often cannot directly observe competence.
 
-That raises a question I do not think the usual career advice answers well:
+So I am thinking about portfolio work differently.
 
-If the shortage is real, why is the bridge into the field still so hard to cross?
+Maybe the point is not:
 
-The standard advice is familiar:
+> Look, I built a lab.
 
-Certifications do not get you hired.
-Hands-on proof matters.
-Build a lab.
-Build a portfolio.
-Keep going.
+Maybe the point is:
 
-I think that advice is directionally right.
+> Here is evidence of how I think when evidence is incomplete and the decision still matters.
 
-I also think it is incomplete.
+That does not make proof magic.
 
-Maybe the deeper problem is that hiring systems often cannot directly see competence.
+A GitHub repo does not guarantee a seat.
 
-They see proxies:
-credentials,
-titles,
-referrals,
-polish,
-social proof,
-corporate culture fit,
-confidence,
-keywords,
-prior selection by someone else.
+Hands-on proof can become another unpaid ritual candidates perform while waiting to be seen.
 
-So maybe "build a portfolio" is not the real prescription.
+But a serious artifact can still do something useful: it can make judgment inspectable.
 
-Maybe the real question is:
+The better prescription may be broader than "build a portfolio."
 
-How do you convert competence into trust-bearing evidence?
+It may be:
 
-That may include artifacts.
+Convert competence into trust-bearing signals.
 
-But it may also include networking, referrals, better packaging, stronger public communication, social proof, aesthetic polish, and the ability to explain yourself without sounding either desperate or fake.
+That means real competence, inspectable artifacts, clear communication, role-specific proof, public consistency, network trust, and enough humility to expose the work to critique.
 
-That is the uncomfortable part.
-
-Maybe making competence inspectable is only one hypothesis.
-
-Maybe the real selection environment rewards trust more than skill, visibility more than depth, and prior legitimacy more than latent ability.
-
-Still, serious proof may matter because it gives trust something real to inspect.
-
-If you hire, screen, interview, or manage security analysts, I would genuinely like to know where this framework is wrong.
-
-Are teams short of people, or short of senior-ready trust?
+If you hire, screen, interview, or manage security analysts:
 
 What signals actually reduce risk for you?
 
@@ -73,11 +46,8 @@ What portfolio evidence do you trust?
 
 What looks impressive but does not matter?
 
-And for people trying to break in: what has created real signal, and what has only created more effort without conversion?
+And if you are trying to break in:
 
-My current working model:
+What has created real signal?
 
-Do not merely become more competent.
-
-Convert competence into trust.
-
+What has only created more effort without conversion?

@@ -4,81 +4,73 @@
 
 ## Purpose
 
-This document explains the current public field note as a reviewer-facing artifact.
+This document explains the current field note as a reviewer-facing artifact.
 
-The artifact starts with cybersecurity hiring but expands into labor-market anthropology, trust formation, institutional filtering, and competing explanations for why capable candidates may struggle to convert.
-
-Core question:
+The essay uses cybersecurity hiring as a case study for a broader problem:
 
 ```text
-If cybersecurity has a talent shortage, why can the entry interface still feel so blocked?
+labor-market scarcity + degraded ladders + global competition + mediated hiring -> need for trust-bearing signals
 ```
 
 ## Review path
 
 ### 1. The shortage paradox
 
-The essay opens with the contradiction between cybersecurity growth and hiring stress. Public data points show strong occupational growth, workforce gaps, understaffing, unfilled roles, hiring delays, and skills shortages.
+The essay begins with the contradiction between a widely reported cybersecurity talent shortage and the lived friction of candidates trying to enter the field.
 
-**Reviewer takeaway:** The artifact is not a narrow career-advice post. It starts from a real contradiction in the security labor market.
+**Reviewer takeaway:** The artifact does not treat the hiring problem as simple candidate failure. It separates demand from selection-interface design.
 
-### 2. The article as a test object
+### 2. Disappearing ladders
 
-The essay treats "make competence inspectable" as a hypothesis under investigation. It does not claim that portfolio-building has already solved the problem.
+The essay broadens from cybersecurity into labor-market history: 9/11, the 2008 crisis, retail collapse, COVID, manufacturing decline, credential inflation, and the rising cost of middle-class participation.
 
-**Reviewer takeaway:** The artifact shows intellectual honesty and avoids guru-style certainty.
+**Reviewer takeaway:** The artifact is not narrow career advice. It is a labor-market field note with cybersecurity as the case study.
 
-### 3. Broader labor-market frame
+### 3. Personal microcosm
 
-The essay connects cybersecurity hiring to weakened family-sustaining work ladders, credential inflation, global labor competition, offshoring, remote applicant pools, and AI-mediated work.
+The essay uses remote technical support and retail consolidation as a concrete example of a broader mechanism: human trust enables entry, competence enables advancement, but institutional ladders can still close.
 
-**Reviewer takeaway:** The argument explains why a candidate can have prior employment success and still struggle to cross a new selection interface.
+**Reviewer takeaway:** Personal experience is used as grounded evidence of mechanism, not as a private complaint.
 
-### 4. Corporate theater and lifeless content
+### 4. The global signal economy
 
-The essay examines why AI slop and corporate culture language feel alien in similar ways: both can simulate humanity while filtering out human anxiety, judgment, and material concern.
+The essay explains how hiring systems simplify candidates into legible signals while AI, platforms, global competition, and attention scarcity make generic proof easier to produce and harder to trust.
 
-**Reviewer takeaway:** The artifact explores the human side of hiring without collapsing into complaint or self-help.
+**Reviewer takeaway:** The artifact distinguishes between content volume and trust-bearing evidence.
 
-### 5. Competing hypotheses
+### 5. Ritual versus artifact
 
-The essay tests portfolio proof against other possible higher-ROI strategies: social proof, network effects, profile aesthetics, positivity signaling, corporate culture compliance, sales skill, referrals, prior title legitimacy, timing, and luck.
+The essay takes seriously the possibility that portfolio-building could become another unpaid ritual if it does not enter a decision loop.
 
-**Reviewer takeaway:** The artifact is not selling one answer. It maps the selection environment.
+**Reviewer takeaway:** The argument is self-critical. It does not treat GitHub or portfolio work as magic.
 
-### 6. Inspectable competence as trust-bearing evidence
+### 6. Trust-bearing signals
 
-The essay narrows the claim: making competence inspectable matters only if it helps another person trust how the candidate thinks, investigates, documents, prioritizes, and reduces risk.
+The essay concludes that making competence inspectable is not enough by itself. The stronger operating model is to convert competence into trust-bearing signals across multiple selection layers.
 
-**Reviewer takeaway:** Portfolio work is framed as uncertainty reduction, not self-promotion.
+**Reviewer takeaway:** The artifact produces a practical doctrine without flattening the complexity of the problem.
 
 ## Supporting files
 
 | File | Why it matters |
 |---|---|
-| [Essay](../essays/making-competence-inspectable.md) | Full current field note. |
-| [Proof Map](../reviewer-proof-map.md) | Maps claims to evidence, role relevance, competing hypotheses, and boundaries. |
-| [Source Notes](../references/source-notes.md) | Public source anchors for labor-market, cyber workforce, and institutional claims. |
-| [LinkedIn Draft](../linkedin-drafts/making-competence-inspectable-linkedin-post.md) | Distribution version designed to invite critique from hiring professionals and candidates. |
-| [Selection Framework](../frameworks/selection-environment-proof-map.md) | Converts the article into a reusable proof-design framework. |
+| [Essay](../essays/making-competence-inspectable.md) | Full field note. |
+| [Proof Map](../reviewer-proof-map.md) | Maps claims to evidence and role relevance. |
+| [Source Notes](../references/source-notes.md) | Public reference anchors for the essay. |
+| [LinkedIn Draft](../linkedin-drafts/making-competence-inspectable-linkedin-post.md) | Distribution version designed to invite critique. |
+| [Selection Framework](../frameworks/selection-environment-proof-map.md) | Converts the essay into a reusable proof-design framework. |
 
 ## Evidence reference
 
-| Evidence | What it supports |
+| Evidence area | Source note range |
 |---|---|
-| BLS information security analyst outlook | Cybersecurity demand is strong at the occupational level. |
-| ISACA State of Cybersecurity 2025 | Teams report understaffing, unfilled roles, hiring delays, and demand for technical contributors. |
-| ISC2 2025 workforce study | Skills shortages and staffing deficits affect resilience, while budget constraints remain. |
-| Fortinet skills gap reports | Skills shortages and training gaps are tied to breach risk and AI adoption challenges. |
-| CyberSeek 2025 update | Supply-demand ratio and recruiting periods indicate persistent workforce friction. |
-| Manufacturing employment source note | Older domestic work ladders weakened over time. |
-| Customer service employment source note | Domestic support work faces pressure as an expanding ladder. |
-| Male labor-force participation source notes | Labor-force detachment is a broader social and economic symptom. |
-| FCC offshore call-center source note | Offshoring and call-center location are active policy issues. |
-| H-1B source notes | Skilled labor markets are shaped by global talent channels. |
-| Primary-source lens canon | Provides interpretive lenses for bureaucracy, spectacle, meritocracy, institutional decay, and meaning. |
+| Cybersecurity shortage and hiring friction | S1-S2 |
+| Labor-market shocks and disappearing ladders | S3-S6 |
+| Graduate underemployment and participation costs | S7-S8 |
+| Creative destruction, import competition, retail collapse, and support outsourcing | S9-S12 |
+| Legibility, attention, spectacle, and AI exposure | S13-S15 |
+| Complexity, corporate unreality, and work samples | S16-S20 |
 
 ## Reviewer takeaway
 
-This artifact demonstrates public technical communication, evidence-backed reasoning, role-specific proof strategy, and the ability to turn a common cybersecurity career argument into a broader framework about trust, hiring, and institutional selection.
-
+This artifact demonstrates public technical communication, evidence-backed reasoning, source mapping, role-specific proof strategy, and the ability to turn a common cybersecurity career argument into a broader selection-environment framework.
