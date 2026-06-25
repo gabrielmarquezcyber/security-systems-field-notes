@@ -1,5 +1,6 @@
 # Making Competence Inspectable
 
+[Spanish edition](making-competence-inspectable-es.md)
 ## Cybersecurity Hiring in a Globalized Signal Economy
 
 **Subtitle:** Musical chairs, disappearing ladders, and the problem of proving ability when the system cannot directly see it.
@@ -7,7 +8,6 @@
 ---
 
 **Series:**   
-**Source map:** [Sources for this essay](../sources/making-competence-inspectable-sources.md)
 
 ---
 
@@ -729,7 +729,3 @@ Making competence inspectable does not guarantee a chair.
 But when an entire generation is being told to keep dancing while the chairs disappear, proof may be one of the few ways left to make trust possible.
 
 ---
-
-**Source map:** [Sources for this essay](../sources/making-competence-inspectable-sources.md)
-
-
