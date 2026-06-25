@@ -1,30 +1,28 @@
 ﻿# About Security Systems Field Notes
 
-Security Systems Field Notes is a public writing archive by Gabriel Marquez.
+Security Systems Field Notes is the public writing layer for essays that connect cybersecurity, labor markets, AI, institutional trust, and the systems that decide who gets seen.
 
-The archive sits between technical portfolio work and long-form public analysis. It is for essays that connect cybersecurity, AI, labor markets, institutional trust, and practical operating systems.
+At this stage, the page is intentionally centered on one essay:
 
-## What belongs here
+- [Making Competence Inspectable](articles/making-competence-inspectable.md)
+- [Hacer visible la capacidad](articles/making-competence-inspectable-es.md)
 
-- Long-form essays
-- Labor-market and technology field notes
-- Source-backed frameworks
-- AI trust architecture analysis
-- Security operations context essays
-- Public distribution excerpts
+The format is closer to a publication page than a technical GitHub repository. The goal is not to overwhelm a reader with folder depth. The goal is to preserve a clean canonical copy, a Spanish companion edition, and a source map.
 
-## What does not belong here
+## Scope
 
-- Raw private notes
-- Personal disputes
-- Sensitive financial or health details
-- Challenge answers or credential dumps
-- Technical repo scaffolding
+This page contains public writing and source notes. It does not claim production security ownership, enterprise incident-response ownership, or professional red-team experience.
 
-## Relationship to GitHub
+Technical proof belongs in dedicated security repositories. This page belongs beside them as the reflective and analytical layer.
 
-GitHub is used here as a durable public archive with version history. The structure follows writing-publication logic more than technical-repo logic: articles, sources, series pages, and public excerpts.
+## Current structure
 
-The long-term direction may include cross-posting to LinkedIn, Substack, Medium, or a personal site. This repo remains the canonical Markdown archive.
+```text
+one essay
+one Spanish edition
+one source map
+one social excerpt
+```
 
+When additional essays exist, the page can become a larger archive. Until then, the correct structure is simple.
 

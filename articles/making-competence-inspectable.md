@@ -1,4 +1,4 @@
-﻿# Making Competence Inspectable
+# Making Competence Inspectable
 
 ## Cybersecurity Hiring in a Globalized Signal Economy
 
@@ -6,7 +6,7 @@
 
 ---
 
-**Series:** [Globalized Signal Economy](../series/globalized-signal-economy.md)  
+**Series:**   
 **Source map:** [Sources for this essay](../sources/making-competence-inspectable-sources.md)
 
 ---
