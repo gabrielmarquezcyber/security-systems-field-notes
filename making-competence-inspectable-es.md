@@ -1,4 +1,4 @@
-﻿# Hacer visible la capacidad
+# Hacer visible la capacidad
 
 [English version](README.md)
 

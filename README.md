@@ -1,4 +1,4 @@
-﻿# Making Competence Inspectable
+# Making Competence Inspectable
 
 [Versión en español](making-competence-inspectable-es.md)
 
@@ -84,17 +84,17 @@ senior people, specific tool experience, ambiguity-handling, risk communication,
 
 Each shortage implies a different solution.
 
-If the shortage is â€œnot enough humans,â€ the solution is more candidates.
+If the shortage is "not enough humans," the solution is more candidates.
 
-If the shortage is â€œnot enough credentialed humans,â€ the solution is more certifications and degrees.
+If the shortage is "not enough credentialed humans," the solution is more certifications and degrees.
 
-If the shortage is â€œnot enough senior-ready humans,â€ entry-level candidates will remain blocked no matter how many entry-level programs advertise hope.
+If the shortage is "not enough senior-ready humans," entry-level candidates will remain blocked no matter how many entry-level programs advertise hope.
 
-If the shortage is â€œnot enough trusted humans,â€ the problem becomes proof, sponsorship, apprenticeship, and risk transfer.
+If the shortage is "not enough trusted humans," the problem becomes proof, sponsorship, apprenticeship, and risk transfer.
 
-If the shortage is â€œnot enough budget,â€ a candidate can be qualified and still lose to austerity.
+If the shortage is "not enough budget," a candidate can be qualified and still lose to austerity.
 
-If the shortage is â€œnot enough managerial courage,â€ organizations may complain about talent while refusing to train it.
+If the shortage is "not enough managerial courage," organizations may complain about talent while refusing to train it.
 
 A system can produce a shortage by refusing to absorb and develop the people who could eventually relieve it.
 
@@ -128,7 +128,7 @@ Borders Books was one example. It was not just a bookstore chain. For many worke
 
 Then came COVID. Restaurants closed. Tourism collapsed. Small businesses lost contracts. Households that had survived previous shocks discovered that survival did not equal resilience. A final client, a final contract, a final local dependency could vanish because the physical world had been shut down. Southern Nevada visitor volume fell sharply in 2020, and the shock ran through restaurants, events, tourism, and service work. [S3]
 
-But the pattern was larger than Las Vegas, bookstores, restaurants, or one familyâ€™s business.
+But the pattern was larger than Las Vegas, bookstores, restaurants, or one family's business.
 
 A crisis is often described as temporary.
 
@@ -152,7 +152,7 @@ In that case, competence does not fail.
 
 Competence succeeds so well that the institution learns how to remove the chair.
 
-This is why the â€œpeople do not want to workâ€ explanation is insufficient.
+This is why the "people do not want to work" explanation is insufficient.
 
 It ignores the fact that millions of people have already adapted through multiple destroyed ladders.
 
@@ -188,15 +188,15 @@ It still works for some people.
 
 But the chair it promised is no longer as reliable as the story suggests.
 
-The problem is not that college has no value. College graduates still often retain wage, stability, and long-term advantages over non-graduates. The problem is that the first conversion point â€” the passage from degree to professional employment â€” has become much less dependable.
+The problem is not that college has no value. College graduates still often retain wage, stability, and long-term advantages over non-graduates. The problem is that the first conversion point -- the passage from degree to professional employment -- has become much less dependable.
 
-This is where the â€œStarbucks philosopherâ€ joke becomes socially revealing. It is funny because it contains a recognizable mismatch: education without a fitting chair. But it is also cruel because it treats a structural failure as a punchline.
+This is where the "Starbucks philosopher" joke becomes socially revealing. It is funny because it contains a recognizable mismatch: education without a fitting chair. But it is also cruel because it treats a structural failure as a punchline.
 
 The philosopher at Starbucks is not merely a bad planner.
 
 He is evidence that the room has changed.
 
-The Burning Glass Instituteâ€™s 2025 report on young graduates states the problem directly: for the first time in modern history, a bachelorâ€™s degree is no longer a reliable path to professional employment. It identifies four interlocking pressures: AI eliminating many junior tasks, post-pandemic lean staffing and risk-averse hiring, AI accelerating those changes, and a growing graduate glut. [S7]
+The Burning Glass Institute's 2025 report on young graduates states the problem directly: for the first time in modern history, a bachelor's degree is no longer a reliable path to professional employment. It identifies four interlocking pressures: AI eliminating many junior tasks, post-pandemic lean staffing and risk-averse hiring, AI accelerating those changes, and a growing graduate glut. [S7]
 
 That is musical chairs in credential form.
 
@@ -216,13 +216,13 @@ The result is not simply unemployment. It is mismatch.
 
 A graduate can be working and still not be in the chair the degree was supposed to unlock. Underemployment matters because it can scar the career path early. A person who starts outside college-level work may not gain the experience needed to enter college-level work later. The resume begins to tell the wrong story, even if the person is intelligent, capable, and willing.
 
-St. Louis Fed coverage of Burning Glass and Strada research reports that as much as 52 percent of college graduates are underemployed upon initial labor-market entry and that 45 percent remain underemployed even ten years after graduation. The New York Fedâ€™s recent college graduate tracker showed recent graduates still facing elevated unemployment and an underemployment rate above 40 percent in early 2026. The Cleveland Fed documents the erosion of young college graduatesâ€™ job-finding advantage over time. [S7]
+St. Louis Fed coverage of Burning Glass and Strada research reports that as much as 52 percent of college graduates are underemployed upon initial labor-market entry and that 45 percent remain underemployed even ten years after graduation. The New York Fed's recent college graduate tracker showed recent graduates still facing elevated unemployment and an underemployment rate above 40 percent in early 2026. The Cleveland Fed documents the erosion of young college graduates' job-finding advantage over time. [S7]
 
 The degree problem is also a cost-of-living problem.
 
-Michael Greenâ€™s recent work on the poverty line is controversial, and the exact â€œreal poverty lineâ€ number should not be treated as settled. But the controversy itself is revealing. Green argues that the official poverty line is built on an outdated model and that the real cost of middle-class participation now includes housing, health care, child care, transportation, communications, education, and other costs that do not fit cleanly into the old food-budget formula. Critics dispute his calculation and warn against redefining poverty too broadly. Even many critics, however, concede the underlying pressure: the official line does not capture the cost of stable participation in many American communities. [S8]
+Michael Green's recent work on the poverty line is controversial, and the exact "real poverty line" number should not be treated as settled. But the controversy itself is revealing. Green argues that the official poverty line is built on an outdated model and that the real cost of middle-class participation now includes housing, health care, child care, transportation, communications, education, and other costs that do not fit cleanly into the old food-budget formula. Critics dispute his calculation and warn against redefining poverty too broadly. Even many critics, however, concede the underlying pressure: the official line does not capture the cost of stable participation in many American communities. [S8]
 
-The useful concept is not â€œeveryone under a high income is poor.â€
+The useful concept is not "everyone under a high income is poor."
 
 The useful concept is the participation ticket.
 
@@ -248,7 +248,7 @@ But no serious society can reduce every displaced person to the same advice.
 
 If everyone abandoned the humanities, do we want a society with no historians, artists, philosophers, writers, teachers, critics, musicians, translators, theologians, or public intellectuals?
 
-And if everyone rushed into the same â€œsafeâ€ practical fields, would that create new chairs?
+And if everyone rushed into the same "safe" practical fields, would that create new chairs?
 
 Or would it simply crowd the next room until those entry paths broke too?
 
@@ -276,13 +276,13 @@ A statistic can tell us that a ladder weakened.
 
 A life can show what it feels like to climb it while it is being dismantled.
 
-Joseph Schumpeterâ€™s phrase â€œcreative destructionâ€ describes capitalismâ€™s ability to revolutionize itself from within: innovation creates new industries while destroying old arrangements. [S9]
+Joseph Schumpeter's phrase "creative destruction" describes capitalism's ability to revolutionize itself from within: innovation creates new industries while destroying old arrangements. [S9]
 
 That phrase is often used as if destruction is merely the price of progress.
 
 Maybe it is.
 
-But from the workerâ€™s position, destruction is not abstract. It is the closed store, the vanished management path, the outsourced support channel, the dead family business, the vanished local ladder, the resume that no longer translates, the firm that trained you to train your cheaper replacement, the process knowledge used to make you unnecessary.
+But from the worker's position, destruction is not abstract. It is the closed store, the vanished management path, the outsourced support channel, the dead family business, the vanished local ladder, the resume that no longer translates, the firm that trained you to train your cheaper replacement, the process knowledge used to make you unnecessary.
 
 Creative destruction may eventually produce new opportunity.
 
@@ -290,7 +290,7 @@ But the new ladder is not always local, legible, family-sustaining, or reachable
 
 Autor, Dorn, and Hanson help explain why this matters. Import competition, labor-market polarization, automation of routine tasks, and the geography of work changed which chairs existed, where they existed, and who could reach them. [S9]
 
-The theoretical point is simple: destruction is not distributed evenly. It falls through industries, places, credentials, and timing. That is why one workerâ€™s path through a consolidating retailer can reveal a larger mechanism.
+The theoretical point is simple: destruction is not distributed evenly. It falls through industries, places, credentials, and timing. That is why one worker's path through a consolidating retailer can reveal a larger mechanism.
 
 Retail shows the pattern clearly. Circuit City liquidated. Ultimate Electronics liquidated. RadioShack entered bankruptcy twice. Mom-and-pop electronics shops faced even greater pressure from big-box competition, e-commerce, price transparency, logistics scale, and changing consumer behavior. [S10]
 
@@ -340,7 +340,7 @@ It is a structural observation about corporate incentives.
 
 The American worker is increasingly competing inside a global cost-optimization system while still carrying American housing, healthcare, debt, family, and cost-of-living burdens.
 
-Computer-related jobs have been the most common occupation for H-1B workers for more than a decade; since fiscal 2012, about 60 percent or more of H-1B workers approved each year held computer-related jobs. The H-1B program applies to employers seeking workers in specialty occupations requiring highly specialized knowledge and generally at least a bachelorâ€™s degree or equivalent. FCC proceedings around offshore call centers show that call-center location, English proficiency, consumer transfer options, and offshore handling of customer communications are live policy questions. [S12]
+Computer-related jobs have been the most common occupation for H-1B workers for more than a decade; since fiscal 2012, about 60 percent or more of H-1B workers approved each year held computer-related jobs. The H-1B program applies to employers seeking workers in specialty occupations requiring highly specialized knowledge and generally at least a bachelor's degree or equivalent. FCC proceedings around offshore call centers show that call-center location, English proficiency, consumer transfer options, and offshore handling of customer communications are live policy questions. [S12]
 
 Again, this is not about blaming foreign workers.
 
@@ -350,7 +350,7 @@ The domestic candidate is not entering a purely local market.
 
 He is entering a global signal economy.
 
-That is the environment in which â€œjust get more qualifiedâ€ starts to sound incomplete.
+That is the environment in which "just get more qualified" starts to sound incomplete.
 
 The entry-level paradox is the purest version of that problem.
 
@@ -370,7 +370,7 @@ The role is priced and labeled as entry-level.
 
 The requirements describe someone who has already survived a prior round.
 
-This is why â€œget experienceâ€ becomes almost absurd as advice.
+This is why "get experience" becomes almost absurd as advice.
 
 The candidate is not refusing experience.
 
@@ -386,7 +386,7 @@ The candidate is not simply trying to become competent.
 
 The candidate is trying to become legible.
 
-James C. Scottâ€™s concept of legibility helps explain why hiring systems prefer clean signals: title, years of experience, degree, location, authorization, keyword match, tool list, prior employer, referral, and salary range. [S13]
+James C. Scott's concept of legibility helps explain why hiring systems prefer clean signals: title, years of experience, degree, location, authorization, keyword match, tool list, prior employer, referral, and salary range. [S13]
 
 But security work often depends on less legible traits: judgment, restraint, escalation discipline, uncertainty handling, evidence interpretation, and the ability to communicate risk without exaggeration.
 
@@ -396,9 +396,9 @@ It sees a simplified map of the candidate.
 
 That simplification helps explain why a candidate can be technically capable yet remain invisible to the systems that decide who gets seen.
 
-Herbert Simonâ€™s attention-scarcity insight explains the next layer: in an information-rich environment, attention becomes scarce. A portfolio does not matter because it exists. It matters only if it can carry meaning through an attention-constrained system. [S14]
+Herbert Simon's attention-scarcity insight explains the next layer: in an information-rich environment, attention becomes scarce. A portfolio does not matter because it exists. It matters only if it can carry meaning through an attention-constrained system. [S14]
 
-Guy Debordâ€™s spectacle lens adds a warning: in an image-mediated professional world, proof can become another image of competence rather than evidence of competence. [S14]
+Guy Debord's spectacle lens adds a warning: in an image-mediated professional world, proof can become another image of competence rather than evidence of competence. [S14]
 
 LinkedIn career discourse often becomes spectacle: images of discipline, images of learning, images of resilience, images of employability.
 
@@ -464,11 +464,11 @@ That possibility should not be dismissed too quickly.
 
 Civilizations and institutions often preserve rituals after the original function weakens. Bureaucracies can continue generating procedures even when the procedure no longer solves the problem. Organizations can keep talking about talent while filtering talent out. Public platforms can reward visibility while pretending to reward value. Credential systems can multiply signals until the signals stop distinguishing much.
 
-Joseph Tainterâ€™s work on complexity gives a useful lens. Societies often respond to problems by adding complexity, but added complexity can eventually produce diminishing returns. Hiring shows a small version of that problem: applicant tracking systems, keyword optimization, HR screens, recruiter screens, personality filters, culture language, skills matrices, automated tests, interview loops, compliance language, portfolio expectations, LinkedIn performance, and now AI-generated application material. More process does not necessarily mean better formation or better judgment. [S16]
+Joseph Tainter's work on complexity gives a useful lens. Societies often respond to problems by adding complexity, but added complexity can eventually produce diminishing returns. Hiring shows a small version of that problem: applicant tracking systems, keyword optimization, HR screens, recruiter screens, personality filters, culture language, skills matrices, automated tests, interview loops, compliance language, portfolio expectations, LinkedIn performance, and now AI-generated application material. More process does not necessarily mean better formation or better judgment. [S16]
 
 This helps explain why a hiring process can become more elaborate while becoming less capable of recognizing the traits security work actually needs.
 
-Harry Frankfurtâ€™s work on bullshit helps explain why so much career and corporate language feels dead. Bullshit is not merely falsehood; it is language indifferent to truth. David Graeberâ€™s work on bullshit jobs points toward the related possibility that institutions can preserve roles, rituals, and language that maintain form without producing obvious value. [S17]
+Harry Frankfurt's work on bullshit helps explain why so much career and corporate language feels dead. Bullshit is not merely falsehood; it is language indifferent to truth. David Graeber's work on bullshit jobs points toward the related possibility that institutions can preserve roles, rituals, and language that maintain form without producing obvious value. [S17]
 
 That matters because the applicant is often pressured to perform unreality.
 
@@ -592,7 +592,7 @@ Maybe.
 
 But not by itself.
 
-â€œMake competence inspectableâ€ is too narrow if it means:
+"Make competence inspectable" is too narrow if it means:
 
 Build artifacts and wait.
 
@@ -646,7 +646,7 @@ Not to every reviewer.
 
 But more directly than another slogan.
 
-Albert Hirschmanâ€™s framework of exit, voice, and loyalty gives a final lens. When old ladders fail, workers can exit, complain, stay loyal, or attempt some mixture of the three. A serious portfolio is a strange hybrid: exit from pure credential dependence, voice toward the hiring system, and loyalty to the idea that competence still matters. [S19]
+Albert Hirschman's framework of exit, voice, and loyalty gives a final lens. When old ladders fail, workers can exit, complain, stay loyal, or attempt some mixture of the three. A serious portfolio is a strange hybrid: exit from pure credential dependence, voice toward the hiring system, and loyalty to the idea that competence still matters. [S19]
 
 The working model is not:
 
@@ -693,15 +693,15 @@ What could have been wrong?
 
 What would make the decision better?
 
-What does this prove about the personâ€™s judgment?
+What does this prove about the person's judgment?
 
-That is different from â€œI finished a course.â€
+That is different from "I finished a course."
 
-It is also different from â€œI have a credential.â€
+It is also different from "I have a credential."
 
 It is evidence of working judgment.
 
-Talebâ€™s skin-in-the-game frame is useful here. A serious artifact exposes judgment to critique. It can be inspected, challenged, improved, rejected, or used. [S20]
+Taleb's skin-in-the-game frame is useful here. A serious artifact exposes judgment to critique. It can be inspected, challenged, improved, rejected, or used. [S20]
 
 If it cannot be inspected, challenged, or improved, it is not proof.
 
